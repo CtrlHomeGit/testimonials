@@ -1,1 +1,31 @@
+[
+  {
+    "quote": "CtrlHome made setting up my smart home devices effortless and worry-free.",
+    "author": "Sarah K.",
+    "location": "Denver, CO",
+    "brands": [
+      "Apple_Home.png",
+      "Google_Home.svg",
+      "Hue.png"
+    ]
+  },
+  {
+    "quote": "Professional and knowledgeable—CtrlHome’s support is unmatched.",
+    "author": "Mark D.",
+    "location": "Fort Collins, CO",
+    "brands": [
+      "Amazon.svg",
+      "Hue.png"
+    ]
+  },
+  {
+    "quote": "Thanks to CtrlHome, my grandparents’ smart devices are easy to manage.",
+    "author": "Emily R.",
+    "location": "Greeley, CO",
+    "brands": [
+      "Apple_Home.png",
+      "Amazon.svg"
+    ]
+  }
+]
 
